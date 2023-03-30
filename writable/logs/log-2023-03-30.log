@@ -1,0 +1,1447 @@
+INFO - 2023-03-30 00:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 00:17:00 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(91): App\Models\TransaksiModel->updateTrans([...], null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 00:25:46 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans([...], null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 00:26:29 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans([...], null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 00:30:06 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans([...], null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 00:31:47 --> Undefined property: App\Controllers\Petugas::$input
+in APPPATH\Controllers\Petugas.php on line 80.
+ 1 APPPATH\Controllers\Petugas.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Petugas::$input', 'D:\\Tasya_USK\\vspp_web\\app\\Controllers\\Petugas.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 00:32:09 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::post()
+in APPPATH\Controllers\Petugas.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 00:32:22 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans([...], null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 00:35:03 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans([...], null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 00:36:54 --> mysqli_sql_exception: Unknown column 'spp_id' in 'field list' in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `siswa` ...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `siswa` ...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `siswa` ...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `siswa` ...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\SiswaModel.php(55): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Admin.php(291): App\Models\SiswaModel->updateSiswa(Array, '70707070')
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Admin->editSis()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 00:36:55 --> Unknown column 'spp_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `siswa` SET `nis` = \'7070\', `nama` = \'Kirana\', `kelas_id` = \'2\', `alamat` = \'Jl.Jambu 21\', `telp` = \'283748736\', `spp_id` = NULL, `level` = \'SISWA\'
+WHERE `nisn` = \'70707070\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `siswa` SET `nis` = \'7070\', `nama` = \'Kirana\', `kelas_id` = \'2\', `alamat` = \'Jl.Jambu 21\', `telp` = \'283748736\', `spp_id` = NULL, `level` = \'SISWA\'
+WHERE `nisn` = \'70707070\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `siswa` SET `nis` = \'7070\', `nama` = \'Kirana\', `kelas_id` = \'2\', `alamat` = \'Jl.Jambu 21\', `telp` = \'283748736\', `spp_id` = NULL, `level` = \'SISWA\'
+WHERE `nisn` = \'70707070\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `siswa` SET `nis` = :nis:, `nama` = :nama:, `kelas_id` = :kelas_id:, `alamat` = :alamat:, `telp` = :telp:, `spp_id` = :spp_id:, `level` = :level:
+WHERE `nisn` = :nisn:', [...], false)
+ 5 APPPATH\Models\SiswaModel.php(55): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 6 APPPATH\Controllers\Admin.php(291): App\Models\SiswaModel->updateSiswa([...], '70707070')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editSis()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 00:41:21 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `si...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `si...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `si...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `si...', Array, false)
+#4 D:\Tasya_USK\vspp_web\system\Model.php(456): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Tasya_USK\vspp_web\system\BaseModel.php(1065): CodeIgniter\Model->doDelete(Array, false)
+#6 D:\Tasya_USK\vspp_web\app\Controllers\Admin.php(298): CodeIgniter\BaseModel->delete(Array)
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Admin->hapusSis('70707070')
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#12 {main}
+CRITICAL - 2023-03-30 00:41:21 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `siswa`
+WHERE `id` IN (\'70707070\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `siswa`
+WHERE `id` IN (\'70707070\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `siswa`
+WHERE `id` IN (\'70707070\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `siswa`
+WHERE `id` IN :id:', [...], false)
+ 5 SYSTEMPATH\Model.php(456): CodeIgniter\Database\BaseBuilder->delete()
+ 6 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 7 APPPATH\Controllers\Admin.php(298): CodeIgniter\BaseModel->delete([...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->hapusSis('70707070')
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:44:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:44:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 00:53:06 --> mysqli_sql_exception: Column 'petugas_id' cannot be null in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Admin.php(432): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Admin->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 00:53:06 --> Column 'petugas_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'6\', \'400000\', \'Lunas\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'6\', \'400000\', \'Lunas\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'6\', \'400000\', \'Lunas\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (:id:, :petugas_id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :ket:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Admin.php(432): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+ERROR - 2023-03-30 00:53:49 --> mysqli_sql_exception: Column 'petugas_id' cannot be null in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Admin.php(432): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Admin->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 00:53:49 --> Column 'petugas_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'6\', \'400000\', \'Lunas\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'6\', \'400000\', \'Lunas\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'6\', \'400000\', \'Lunas\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (:id:, :petugas_id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :ket:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Admin.php(432): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 00:54:43 --> mysqli_sql_exception: Column 'petugas_id' cannot be null in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Admin.php(432): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Admin->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 00:54:43 --> Column 'petugas_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'5\', \'420000\', \'Lunas\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'5\', \'420000\', \'Lunas\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'5\', \'420000\', \'Lunas\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (:id:, :petugas_id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :ket:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Admin.php(432): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+ERROR - 2023-03-30 00:55:07 --> mysqli_sql_exception: Column 'petugas_id' cannot be null in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Admin.php(432): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Admin->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 00:55:07 --> Column 'petugas_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'5\', \'420000\', \'Lunas\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'5\', \'420000\', \'Lunas\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Caca\', \'202020\', \'22\', \'Januari\', \'2023\', \'5\', \'420000\', \'Lunas\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (:id:, :petugas_id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :ket:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Admin.php(432): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 00:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 00:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-30 01:15:40 --> [DEPRECATED] Optional parameter $id declared before required parameter $data is implicitly treated as a required parameter in APPPATH\Models\TransaksiModel.php on line 41.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once('D:\\Tasya_USK\\vspp_web\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Tasya_USK\\vspp_web\\app\\Models\\TransaksiModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\TransaksiModel')
+ 4 APPPATH\Controllers\Admin.php(27): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\TransaksiModel')
+ 5 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Admin->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-30 01:15:48 --> [DEPRECATED] Optional parameter $id declared before required parameter $data is implicitly treated as a required parameter in APPPATH\Models\TransaksiModel.php on line 41.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once('D:\\Tasya_USK\\vspp_web\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Tasya_USK\\vspp_web\\app\\Models\\TransaksiModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\TransaksiModel')
+ 4 APPPATH\Controllers\Admin.php(27): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\TransaksiModel')
+ 5 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Admin->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-03-30 01:15:48 --> [DEPRECATED] Optional parameter $id declared before required parameter $data is implicitly treated as a required parameter in APPPATH\Models\TransaksiModel.php on line 41.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once('D:\\Tasya_USK\\vspp_web\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Tasya_USK\\vspp_web\\app\\Models\\TransaksiModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\TransaksiModel')
+ 4 APPPATH\Controllers\Admin.php(27): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\TransaksiModel')
+ 5 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Admin->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:20:07 --> Undefined variable $builder
+in APPPATH\Models\TransaksiModel.php on line 43.
+ 1 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $builder', 'D:\\Tasya_USK\\vspp_web\\app\\Models\\TransaksiModel.php', 43)
+ 2 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:21:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:32:19 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:33:31 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:33:50 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:35:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:35:20 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::set()
+in APPPATH\Controllers\Petugas.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:36:25 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::set()
+in APPPATH\Controllers\Petugas.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:36:43 --> Call to a member function getPost() on null
+in APPPATH\Models\TransaksiModel.php on line 44.
+ 1 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:37:05 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::input()
+in APPPATH\Controllers\Petugas.php on line 80.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:37:51 --> Call to a member function input() on null
+in APPPATH\Models\TransaksiModel.php on line 44.
+ 1 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:38:26 --> Call to a member function update() on null
+in APPPATH\Models\TransaksiModel.php on line 44.
+ 1 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:39:19 --> Call to a member function getPost() on null
+in APPPATH\Models\TransaksiModel.php on line 44.
+ 1 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:39:43 --> Call to a member function post() on null
+in APPPATH\Models\TransaksiModel.php on line 44.
+ 1 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:40:02 --> Call to a member function post() on null
+in APPPATH\Models\TransaksiModel.php on line 44.
+ 1 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:42:53 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::set()
+in APPPATH\Models\TransaksiModel.php on line 43.
+ 1 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:44:03 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:44:50 --> Call to undefined function App\Models\set()
+in APPPATH\Models\TransaksiModel.php on line 43.
+ 1 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:47:56 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(93): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:48:51 --> Call to undefined method App\Models\TransaksiModel::updateTrans
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Petugas.php(92): CodeIgniter\Model->__call('updateTrans', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:49:57 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:50:21 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(141): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:50:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:50:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:51:00 --> Call to undefined method App\Models\TransaksiModel::updateTrans
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Admin.php(451): CodeIgniter\Model->__call('updateTrans', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:51:16 --> Call to undefined method App\Models\TransaksiModel::updateTrans
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Admin.php(451): CodeIgniter\Model->__call('updateTrans', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:51:34 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTransaksi(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:52:03 --> syntax error, unexpected token "{", expecting "("
+in APPPATH\Models\TransaksiModel.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Tasya_USK\\vspp_web\\app\\Models\\TransaksiModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\TransaksiModel')
+ 3 APPPATH\Controllers\Admin.php(27): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\TransaksiModel')
+ 4 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Admin->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:52:08 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:53:10 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 01:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:55:22 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:58:55 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1680.
+ 1 SYSTEMPATH\BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Model->update('transaksi')
+ 5 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 01:59:08 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1680.
+ 1 SYSTEMPATH\BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Model->update('transaksi')
+ 5 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 01:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 01:59:18 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1680.
+ 1 SYSTEMPATH\BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Model->update('transaksi')
+ 5 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 02:00:55 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1680.
+ 1 SYSTEMPATH\BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Model->update('transaksi')
+ 5 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:00:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:01:07 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1680.
+ 1 SYSTEMPATH\BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Model->update('transaksi')
+ 5 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:02:50 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1680.
+ 1 SYSTEMPATH\BaseModel.php(1680): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(910): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\TransaksiModel.php(44): CodeIgniter\Model->update('transaksi')
+ 5 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:04:51 --> Call to a member function set() on array
+in APPPATH\Models\TransaksiModel.php on line 43.
+ 1 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 02:05:40 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+ERROR - 2023-03-30 02:06:36 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= ''
+WHERE `id` = (NULL,NULL,NULL,NULL,NULL,NULL,'400000','Lunas','1')' at line 1 in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transak...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transak...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transak...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transak...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(NULL, Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(NULL, Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:06:36 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= ''
+WHERE `id` = (NULL,NULL,NULL,NULL,NULL,NULL,'400000','Lunas','1')' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transaksi` SET  = \'\'
+WHERE `id` = (NULL,NULL,NULL,NULL,NULL,NULL,\'400000\',\'Lunas\',\'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transaksi` SET  = \'\'
+WHERE `id` = (NULL,NULL,NULL,NULL,NULL,NULL,\'400000\',\'Lunas\',\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transaksi` SET  = \'\'
+WHERE `id` = (NULL,NULL,NULL,NULL,NULL,NULL,\'400000\',\'Lunas\',\'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transaksi` SET  = ::
+WHERE `id` = :id:', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 6 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 02:07:49 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:08:50 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:09:57 --> Call to undefined method App\Models\TransaksiModel::updateTransaksi
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Petugas.php(92): CodeIgniter\Model->__call('updateTransaksi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+ERROR - 2023-03-30 02:10:22 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 = :5:
+WHERE `id` = :id:' at line 1 in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transak...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transak...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transak...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transak...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update('5', Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans('5', Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:10:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 = :5:
+WHERE `id` = :id:' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update('5', [...])
+ 6 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans('5', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 02:10:41 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 = :5:
+WHERE `id` = :id:' at line 1 in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transak...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transak...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transak...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transak...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update('5', Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans('5', Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:10:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 = :5:
+WHERE `id` = :id:' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update('5', [...])
+ 6 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans('5', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 02:11:36 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2 = :2:
+WHERE `id` = :id:' at line 1 in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transak...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transak...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transak...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transak...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update('2', Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans('2', Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:11:36 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2 = :2:
+WHERE `id` = :id:' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transaksi` SET 2 = :2:
+WHERE `id` = :id:', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transaksi` SET 2 = :2:
+WHERE `id` = :id:')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transaksi` SET 2 = :2:
+WHERE `id` = :id:')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transaksi` SET 2 = :2:
+WHERE `id` = :id:', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update('2', [...])
+ 6 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans('2', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 02:12:20 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 = :5:
+WHERE `id` = :id:' at line 1 in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transak...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transak...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transak...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transak...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update('5', Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans('5', Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:12:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5 = :5:
+WHERE `id` = :id:' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query('UPDATE `transaksi` SET 5 = :5:
+WHERE `id` = :id:', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update('5', [...])
+ 6 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans('5', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:12:55 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 02:13:34 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(92): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:21:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:31:35 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Petugas.php(94): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:32:04 --> Undefined property: App\Controllers\Petugas::$form_validation
+in APPPATH\Controllers\Petugas.php on line 60.
+ 1 APPPATH\Controllers\Petugas.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Petugas::$form_validation', 'D:\\Tasya_USK\\vspp_web\\app\\Controllers\\Petugas.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:32:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 02:32:59 --> mysqli_sql_exception: Unknown column 'status' in 'field list' in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:32:59 --> Unknown column 'status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `status`) VALUES (NULL, \'Sasya\', \'24242424\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', \'Lunas\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `status`) VALUES (NULL, \'Sasya\', \'24242424\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', \'Lunas\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `status`) VALUES (NULL, \'Sasya\', \'24242424\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', \'Lunas\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `status`) VALUES (:id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :status:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+ERROR - 2023-03-30 02:33:12 --> mysqli_sql_exception: Column 'ket' cannot be null in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:33:12 --> Column 'ket' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, \'Sasya\', \'24242424\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, \'Sasya\', \'24242424\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, \'Sasya\', \'24242424\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (:id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :ket:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 02:33:22 --> mysqli_sql_exception: Column 'ket' cannot be null in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:33:22 --> Column 'ket' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, \'Hyunari\', \'80808080\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, \'Hyunari\', \'80808080\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, \'Hyunari\', \'80808080\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (:id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :ket:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+ERROR - 2023-03-30 02:34:00 --> mysqli_sql_exception: Unknown column 'status' in 'field list' in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(72): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:34:00 --> Unknown column 'status' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `status`) VALUES (NULL, \'Hyunari\', \'80808080\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', \'Lunas\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `status`) VALUES (NULL, \'Hyunari\', \'80808080\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', \'Lunas\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `status`) VALUES (NULL, \'Hyunari\', \'80808080\', \'22\', \'mei\', \'2022\', \'3\', \'400000\', \'Lunas\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `status`) VALUES (:id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :status:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Petugas.php(72): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-30 02:35:41 --> mysqli_sql_exception: Column 'petugas_id' cannot be null in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:35:41 --> Column 'petugas_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Sasya\', \'24242424\', \'21\', \'Januari\', \'2022\', \'5\', \'420000\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Sasya\', \'24242424\', \'21\', \'Januari\', \'2022\', \'5\', \'420000\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Sasya\', \'24242424\', \'21\', \'Januari\', \'2022\', \'5\', \'420000\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (:id:, :petugas_id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :ket:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+ERROR - 2023-03-30 02:36:32 --> mysqli_sql_exception: Column 'petugas_id' cannot be null in D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tasya_USK\vspp_web\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\Tasya_USK\vspp_web\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\Tasya_USK\vspp_web\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\Tasya_USK\vspp_web\app\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Tasya_USK\vspp_web\app\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans(Array)
+#6 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+#7 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+#8 D:\Tasya_USK\vspp_web\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tasya_USK\vspp_web\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tasya_USK\vspp_web\system\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vs...')
+#11 {main}
+CRITICAL - 2023-03-30 02:36:32 --> Column 'petugas_id' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Sasya\', \'24242424\', \'21\', \'Januari\', \'2022\', \'5\', \'420000\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Sasya\', \'24242424\', \'21\', \'Januari\', \'2022\', \'5\', \'420000\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (NULL, NULL, \'Sasya\', \'24242424\', \'21\', \'Januari\', \'2022\', \'5\', \'420000\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi` (`id`, `petugas_id`, `nama`, `nisn`, `tgl_bayar`, `bln_bayar`, `th_bayar`, `spp_id`, `jml_bayar`, `ket`) VALUES (:id:, :petugas_id:, :nama:, :nisn:, :tgl_bayar:, :bln_bayar:, :th_bayar:, :spp_id:, :jml_bayar:, :ket:)', [...], false)
+ 5 APPPATH\Models\TransaksiModel.php(36): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Petugas.php(73): App\Models\TransaksiModel->saveTrans([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->tambahTrans()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:36:34 --> Undefined variable $petugas
+in APPPATH\Views\pages\petugas\transaksi\index.php on line 96.
+ 1 APPPATH\Views\pages\petugas\transaksi\index.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $petugas', 'D:\\Tasya_USK\\vspp_web\\app\\Views\\pages\\petugas\\transaksi\\index.php', 96)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tasya_USK\\vspp_web\\app\\Views\\pages\\petugas\\transaksi\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/petugas/transaksi/index', [], true)
+ 5 APPPATH\Controllers\Petugas.php(55): view('pages/petugas/transaksi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->transaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:36:37 --> Undefined variable $petugas
+in APPPATH\Views\pages\petugas\transaksi\index.php on line 96.
+ 1 APPPATH\Views\pages\petugas\transaksi\index.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $petugas', 'D:\\Tasya_USK\\vspp_web\\app\\Views\\pages\\petugas\\transaksi\\index.php', 96)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tasya_USK\\vspp_web\\app\\Views\\pages\\petugas\\transaksi\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/petugas/transaksi/index', [], true)
+ 5 APPPATH\Controllers\Petugas.php(55): view('pages/petugas/transaksi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->transaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:37:22 --> Undefined variable $petugas
+in APPPATH\Views\pages\petugas\transaksi\index.php on line 96.
+ 1 APPPATH\Views\pages\petugas\transaksi\index.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $petugas', 'D:\\Tasya_USK\\vspp_web\\app\\Views\\pages\\petugas\\transaksi\\index.php', 96)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tasya_USK\\vspp_web\\app\\Views\\pages\\petugas\\transaksi\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('pages/petugas/transaksi/index', [], true)
+ 5 APPPATH\Controllers\Petugas.php(55): view('pages/petugas/transaksi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->transaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+CRITICAL - 2023-03-30 02:38:26 --> Call to undefined method App\Models\PetugasModel::getData
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Petugas.php(50): CodeIgniter\Model->__call('getData', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Petugas->transaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Petugas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 02:40:01 --> You must use the "set" method to update an entry.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2521.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2455): CodeIgniter\Database\BaseBuilder->validateUpdate()
+ 2 APPPATH\Models\TransaksiModel.php(43): CodeIgniter\Database\BaseBuilder->update(null, [...])
+ 3 APPPATH\Controllers\Admin.php(451): App\Models\TransaksiModel->updateTrans(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->editTrans()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tasya_USK\\vspp_web\\public\\index.php')
+INFO - 2023-03-30 02:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:45:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:48:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:53:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 02:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 03:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
